@@ -1,0 +1,9 @@
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\bin\Release\netcoreapp1.1\EchoInnovators.deps.json
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\bin\Release\netcoreapp1.1\EchoInnovators.runtimeconfig.json
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\bin\Release\netcoreapp1.1\EchoInnovators.runtimeconfig.dev.json
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\bin\Release\netcoreapp1.1\EchoInnovators.dll
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\bin\Release\netcoreapp1.1\EchoInnovators.pdb
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\obj\Release\netcoreapp1.1\EchoInnovators.csprojResolveAssemblyReference.cache
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\obj\Release\netcoreapp1.1\EchoInnovators.AssemblyInfo.cs
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\obj\Release\netcoreapp1.1\EchoInnovators.dll
+C:\Users\Sandesh\OneDrive\Projects\EchoInnovators\EchoInnovators\obj\Release\netcoreapp1.1\EchoInnovators.pdb
